@@ -214,4 +214,4 @@ This repository also includes:
 
 The main goal of this repository is to provide complete JavaScript learning notes along with interview preparation material in a simple and beginner-friendly format.
 
-Happy Learning and All The Best for Your Interviews! 🚀
+Happy Learning and All The Best for Your Interviews! 
